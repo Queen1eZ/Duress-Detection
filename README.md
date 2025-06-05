@@ -10,6 +10,7 @@ The Duress Detection System aims to develop a robust system capable of identifyi
 
 ## Repository Structure
 
+```text
 ├── Code/ 
 │   ├── data preprocessing for training data.ipynb  # Notebook for preprocessing training data 
 │   ├── training.ipynb                              # Notebook for model training and evaluation 
@@ -18,5 +19,4 @@ The Duress Detection System aims to develop a robust system capable of identifyi
 ├── Data_preprocesssed.zip                    # Preprocessed data used for training 
 ├── Model                                     # Pre-trained model files 
 └── README.md                                 # This file 
-
 
