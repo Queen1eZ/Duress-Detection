@@ -10,13 +10,13 @@ The Duress Detection System aims to develop a robust system capable of identifyi
 
 ## Repository Structure
 
-├── Code/
-│   ├── data preprocessing for training data.ipynb  # Notebook for preprocessing training data
-│   ├── training.ipynb                            # Notebook for model training and evaluation
-│   └── final predict.ipynb                       # **Notebook for making predictions on new audio**
-├── Data Info.txt                             # Information about the datasets used
-├── Data_preprocesssed.zip                    # Preprocessed data used for training
-├── Model                                     # Pre-trained model files
-└── README.md                                     # This file
+├── Code/ 
+│   ├── data preprocessing for training data.ipynb  # Notebook for preprocessing training data 
+│   ├── training.ipynb                              # Notebook for model training and evaluation 
+│   └── final predict.ipynb                         # **Notebook for making predictions on new audio** 
+├── Data Info.txt                             # Information about the datasets used 
+├── Data_preprocesssed.zip                    # Preprocessed data used for training 
+├── Model                                     # Pre-trained model files 
+└── README.md                                 # This file 
 
 
